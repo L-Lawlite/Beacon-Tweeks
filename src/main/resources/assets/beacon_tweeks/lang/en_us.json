@@ -1,0 +1,13 @@
+{
+  "itemGroup.beacon_tweeks": "Example Mod Tab",
+  "block.beacon_tweeks.example_block": "Example Block",
+  "item.beacon_tweeks.example_item": "Example Item",
+
+  "beacon_tweeks.configuration.title": "Beacon tweeks Configs",
+  "beacon_tweeks.configuration.section.beacon_tweeks.common.toml": "Beacon tweeks Configs",
+  "beacon_tweeks.configuration.section.beacon_tweeks.common.toml.title": "Beacon tweeks Configs",
+  "beacon_tweeks.configuration.items": "Item List",
+  "beacon_tweeks.configuration.logDirtBlock": "Log Dirt Block",
+  "beacon_tweeks.configuration.magicNumberIntroduction": "Magic Number Text",
+  "beacon_tweeks.configuration.magicNumber": "Magic Number"
+}
