@@ -1,8 +1,11 @@
 {
   "required": true,
-  "package": "net.lawliet.beacon_tweeks.mixin",
+  "package": "net.lawliet.beacon_tweaks.mixin",
   "compatibilityLevel": "JAVA_21",
-  "mixins": [],
+  "mixins": [
+    "BeaconBeamSectionMixin",
+    "BeaconBlockEntityMixin"
+  ],
   "injectors": {
     "defaultRequire": 1
   },
